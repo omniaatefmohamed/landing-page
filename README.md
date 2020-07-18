@@ -7,6 +7,8 @@ this reposiotry is project of Egypt FWD (future work digital) with udacity in we
 ## content 
 
     Create dynamically menu navbar
+    
     Scroll to particular section when user click on the link
+    
     Add active class to both navbar link and section when user scroll
 
